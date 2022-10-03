@@ -2085,6 +2085,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Solidity-cheat_sheet",
+            "link": "https://github.com/JerryCodesAfrica/Solidity-Cheat_sheet",
+            "label": "good first issue",
+            "technologies": [
+                "Solidity"
+            ],
+            "description": "This is a basic solidity documentation that breaks down the complex syntax of solidity into simple format type with well understood examples and explanations."
         }
     ]
 }
